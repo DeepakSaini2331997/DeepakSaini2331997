@@ -3,6 +3,20 @@
 # 💻 Tech Stack:
 
 <img src="https://github.com/DeepakSaini2331997/DeepakSaini2331997/blob/main/assets/icons/PHP-Dark.svg" width="48">
+<img src="https://github.com/DeepakSaini2331997/DeepakSaini2331997/blob/main/assets/icons/PHP-Dark.svg" width="48">
+<img src="https://github.com/DeepakSaini2331997/DeepakSaini2331997/blob/main/assets/icons/PHP-Dark.svg" width="48">
+<img src="https://github.com/DeepakSaini2331997/DeepakSaini2331997/blob/main/assets/icons/PHP-Dark.svg" width="48">
+<img src="https://github.com/DeepakSaini2331997/DeepakSaini2331997/blob/main/assets/icons/PHP-Dark.svg" width="48">
+<img src="https://github.com/DeepakSaini2331997/DeepakSaini2331997/blob/main/assets/icons/PHP-Dark.svg" width="48">
+<img src="https://github.com/DeepakSaini2331997/DeepakSaini2331997/blob/main/assets/icons/PHP-Dark.svg" width="48">
+<img src="https://github.com/DeepakSaini2331997/DeepakSaini2331997/blob/main/assets/icons/PHP-Dark.svg" width="48">
+<img src="https://github.com/DeepakSaini2331997/DeepakSaini2331997/blob/main/assets/icons/PHP-Dark.svg" width="48">
+<img src="https://github.com/DeepakSaini2331997/DeepakSaini2331997/blob/main/assets/icons/PHP-Dark.svg" width="48">
+
+
+
+
+
 <!--
 **DeepakSaini2331997/DeepakSaini2331997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
