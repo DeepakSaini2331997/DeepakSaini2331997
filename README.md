@@ -1,6 +1,20 @@
 ## Hi there 👋
 
 # 💻 Tech Stack:
+<p>
+<img src="assets/icons/PHP-Dark.svg" width="48">
+<img src="assets/icons/Laravel-Dark.svg" width="48">
+<img src="assets/icons/NodeJS-Dark.svg" width="48">
+<img src="assets/icons/ExpressJS-Dark.svg" width="48">
+<img src="assets/icons/React-Dark.svg" width="48">
+<img src="assets/icons/HTML.svg" width="48">
+<img src="assets/icons/CSS.svg" width="48">
+<img src="assets/icons/JavaScript.svg" width="48">
+<img src="assets/icons/AWS-Dark.svg" width="48">
+<img src="assets/icons/Git.svg" width="48">
+</p>
+
+
 
 
 <!--
