@@ -2,7 +2,7 @@
 
 # 💻 Tech Stack:
 <p>
-<img src="https://github.com/DeepakSaini2331997/DeepakSaini2331997/blob/main/assets/icons/PHP-Dark.svg" width="48">
+<img src="assets/icons/PHP-Dark.svg" width="48">
 <img src="https://github.com/DeepakSaini2331997/DeepakSaini2331997/blob/main/assets/icons/PHP-Dark.svg" width="48">
 <img src="https://github.com/DeepakSaini2331997/DeepakSaini2331997/blob/main/assets/icons/PHP-Dark.svg" width="48">
 <img src="https://github.com/DeepakSaini2331997/DeepakSaini2331997/blob/main/assets/icons/PHP-Dark.svg" width="48">
