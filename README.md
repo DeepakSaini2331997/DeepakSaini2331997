@@ -10,6 +10,8 @@
 <img src="assets/icons/HTML.svg" width="48">
 <img src="assets/icons/CSS.svg" width="48">
 <img src="assets/icons/JavaScript.svg" width="48">
+<img src="assets/icons/MySQL-Dark.svg" width="48">
+<img src="assets/icons/MongoDB.svg" width="48">  
 <img src="assets/icons/AWS-Dark.svg" width="48">
 <img src="assets/icons/Git.svg" width="48">
 </p>
